@@ -1,3 +1,6 @@
+
+## Chatbot using Gemini Pro model. Also stores and displays chat history.
+
 from dotenv import load_dotenv
 load_dotenv()
 
