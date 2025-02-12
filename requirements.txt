@@ -9,3 +9,7 @@ faiss-cpu
 langchain_google_genai
 langchain-community
 pycryptodome
+
+groq
+langchain-groq
+pypdf
