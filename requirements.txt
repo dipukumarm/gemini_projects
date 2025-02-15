@@ -13,3 +13,4 @@ pycryptodome
 groq
 langchain-groq
 pypdf
+
